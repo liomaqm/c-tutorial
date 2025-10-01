@@ -67,3 +67,8 @@ If the list contains values 1, 2, 3, the output will be:
 ---
 
 See `main.c` for implementation details and comments.
+
+## Challenges
+1) Implement all the functions in main.c (See answers in main_solved.c)
+2) Update main.c to make the linked list a doubly linked list where each element are linked to the previous and next element. (See answers in main_doubly.c)
+3) Update main.c to return the newly added node. Create function to add a remove an element based on the node (and not its value)
